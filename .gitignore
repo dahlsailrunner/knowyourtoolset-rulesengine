@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/KnowYourToolset.RulesEngine/bin/Debug
+/KnowYourToolset.RulesEngine/obj
+/KnowYourToolset.RulesEngine.EntityFramework/bin/Debug/netstandard2.1
+/KnowYourToolset.RulesEngine.EntityFramework/obj
+/.vs/KnowYourToolset.RulesEngine
+/SampleApplication/bin/Debug/net5.0
+/SampleApplication/obj
